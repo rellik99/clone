@@ -2515,27 +2515,27 @@ video {
 }
 
 .bg-\[url\(\/asset\/CTABg\.svg\)\] {
-  background-image: url(/asset/CTABg.svg);
+  background-image: url(../asset/CTABg.svg);
 }
 
 .bg-\[url\(\/asset\/core-features-sectionBg\.svg\)\] {
-  background-image: url(/asset/core-features-sectionBg.svg);
+  background-image: url(../asset/core-features-sectionBg.svg);
 }
 
 .bg-\[url\(\/asset\/feature-section-2BG\.svg\)\] {
-  background-image: url(/asset/feature-section-2BG.svg);
+  background-image: url(../asset/feature-section-2BG.svg);
 }
 
 .bg-\[url\(\/asset\/instant-settlement-bg\.svg\)\] {
-  background-image: url(/asset/instant-settlement-bg.svg);
+  background-image: url(../asset/instant-settlement-bg.svg);
 }
 
 .bg-\[url\(\/asset\/instantsettlement-bg\.svg\)\] {
-  background-image: url(/asset/instantsettlement-bg.svg);
+  background-image: url(../asset/instantsettlement-bg.svg);
 }
 
 .bg-\[url\(\/asset\/magic-checkout-bg\.svg\)\] {
-  background-image: url(/asset/magic-checkout-bg.svg);
+  background-image: url(../asset/magic-checkout-bg.svg);
 }
 
 .bg-\[url\(\/asset\/payment-button-bg\.svg\)\] {
